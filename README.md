@@ -1,6 +1,5 @@
 ## <div align="center"> Olá eu sou o Bernardo Guaraná 👋 | Desenvolvedor Front-end desde 2021!</div>  <div align="center">📚Estudando React</div>
-## 
-
+ 
 <div align="center">
   <a href="https://github.com/bernardoguarana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardoguarana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
