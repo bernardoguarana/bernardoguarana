@@ -18,7 +18,7 @@
  
   
  
-  <img align="right" alt="Ber-pic" height="150" style="border-radius:50px;" src="https://www.canva.com/design/DAFK3DnluNU/IbJ9f84GKJpq4hccn4LUAA/watch?utm_content=DAFK3DnluNU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+  <img align="right" alt="Ber-pic" height="100" width="100" style="border-radius:50px;" src="https://www.canva.com/design/DAFK3DnluNU/_MKahNhZs_a7Lg_TTRR7tQ/watch">
 </div>
   
   ##
