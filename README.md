@@ -1,4 +1,5 @@
-## <div align="center"> Olá eu sou o Bernardo Guaraná 👋 | Desenvolvedor Front-end desde 2021!</div>  <div align="center">📚Estudando React</div>
+## <div align="center"> Olá eu sou o Bernardo Guaraná 👋 | Desenvolvedor Front-end </div>  <div align="center">📚Estudando React</div>
+## <div align="center">bgsites.com.br</div>
  
 <div align="center">
   <a href="https://github.com/bernardoguarana">
