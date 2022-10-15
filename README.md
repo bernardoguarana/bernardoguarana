@@ -1,5 +1,5 @@
 ## <div align="center"> Olá eu sou o Bernardo Guaraná 👋 | Desenvolvedor Front-end </div>  <div align="center">📚Estudando React</div>
-## <div align="center"><a href="https://bgsites.com.br" target="_blank"><img src="https://img.shields.io/static/v1?label=<LABEL>&message=<BGSITES>COM>BR>&color=<COLOR>" target="_blank">BGSITES</a></div>
+## <div align="center"><a href="https://bgsites.com.br" target="_blank"><img src="https://img.shields.io/static/v1?label=<bgsites.com.br>&message=<MESSAGE>COM>BR>&color=<COLOR>" target="_blank">BGSITES</a></div>
  
 <div align="center">
   <a href="https://github.com/bernardoguarana">
