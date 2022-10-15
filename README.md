@@ -1,4 +1,4 @@
-## <div align="center"> Olá eu sou o Bernardo Guaraná 👋 | Desenvolvedor Front-end </div>  <div align="center">📚Estudando React</div>
+## <div align="center"> Olá eu sou o Bernardo Guaraná 👋 | Desenvolvedor Front-end </div>  <div align="center">📚</div>
 ## <div align="center"><a target="_blank" href="https://bgsites.com.br" target="_blank">BGSITES</a></div>
  
 <div align="center">
