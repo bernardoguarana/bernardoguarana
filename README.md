@@ -1,5 +1,5 @@
 ## <div align="center"> Olá eu sou o Bernardo Guaraná 👋 | Desenvolvedor Front-end 💻</div>  <div align="center">📚</div>
-##<div align="center"><a href="https://bgsites.com.br/"><img align="center" alt="ber-HTML" height="60" width="100" src="https://bgsites.com.br/img/logobranco-fundotransparente-criacao4.svg"></a></div>
+<div align="center"><a href="https://bgsites.com.br/"><img align="center" alt="ber-HTML" height="70" width="110" src="https://bgsites.com.br/img/logobranco-fundotransparente-criacao4.svg"></a></div>
  
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bernardoguarana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
