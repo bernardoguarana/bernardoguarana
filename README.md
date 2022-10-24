@@ -1,4 +1,5 @@
 ## <div align="center"> Olá eu sou o Bernardo Guaraná 👋 | Desenvolvedor Front-end 💻</div>  <div align="center">📚</div>
+<br>
 <div align="center"><a href="https://bgsites.com.br/"><img align="center" alt="ber-HTML" height="70" width="110" src="https://bgsites.com.br/img/logobranco-fundotransparente-criacao4.svg"></a></div>
  <br>
 <div align="center">
