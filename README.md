@@ -1,30 +1,48 @@
-## <div align="center"> Olá eu sou o Bernardo Guaraná 👋 | Desenvolvedor Front-end 💻</div>  <div align="center">📚</div>
+# Bernardo Guaraná
 
+WordPress, Elementor, SEO e automação com IA aplicados à operação real.
 
- <br>
-<!-- <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bernardoguarana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoguarana&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="ber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ber-boots" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="ber-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="ber-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-  
-  ##
- 
-<div align="center"> 
-  <a href="https://instagram.com/bgsites" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:bernardoguarana1901@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/bernardoguarana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5521989660712" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blanck"></a>
-</div>
+Transformo processos repetitivos em helpers, plugins, MU plugins, workflows e estrutura reutilizável para produção de sites, conteúdo e manutenção.
 
+## O que eu construo
 
+- sites WordPress com foco em SEO, performance e operação prática
+- automações para blog, imagens, manutenção e QA
+- helpers para LocalWP, Hostinger, SSH e publicação
+- ferramentas e fluxos para acelerar trabalho real com IA
 
+## Stack principal
 
+- WordPress
+- Elementor
+- Yoast SEO
+- Hostinger
+- LocalWP
+- PHP
+- Python
+- PowerShell
+- WP-CLI
+- GitHub
+- Notion
 
+## Em evolução agora
+
+- publicar helpers e ativos WordPress reutilizáveis
+- organizar melhor meu GitHub como portfólio técnico vivo
+- transformar minha matriz de produção em produto
+- documentar aprendizados reais de WordPress, SEO e automação
+
+## Tipos de ativos que quero publicar
+
+- helpers de ambiente Windows e Codex
+- scripts de bootstrap e auditoria para WordPress
+- plugins e MU plugins reutilizáveis
+- componentes WordPress e kits de CPT
+- utilitários para SEO, blog e manutenção
+- skills e workflows para IA
+
+## Contato
+
+- Instagram: [@bgsites](https://instagram.com/bgsites)
+- LinkedIn: [bernardoguarana](https://linkedin.com/in/bernardoguarana)
+- Email: [bernardoguarana1901@gmail.com](mailto:bernardoguarana1901@gmail.com)
